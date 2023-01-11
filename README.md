@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-- Airline customers sastisfaction is predicted using machine learning algorithms like support vector model, artificial neural networks and random forest 
+- Airline customers satisfaction is predicted using machine learning algorithms like support vector machines, artificial neural networks and random forest 
 
 - The dataset is based on an airline passenger satisfaction survey. It is obtained from Kaggle which can be accessed via this link -> https://www.kaggle.com/datasets/teejmahal20/airline-passenger-
 
